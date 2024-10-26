@@ -97,5 +97,5 @@ This project is licensed under the MIT License.
 Feel free to submit a pull request 📥 if you have any improvements ✨ or bug fixes 🐛. All contributions are welcome 🤗.
 
 ## 👤 Author
-Created by [Your Name](https://github.com/yourusername).
+Created by [Negin Faal](https://github.com/Neginfl).
 
